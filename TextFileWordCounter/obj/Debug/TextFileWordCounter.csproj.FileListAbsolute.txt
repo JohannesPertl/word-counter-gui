@@ -1,0 +1,10 @@
+C:\Users\Joe\Desktop\word-counter-gui\TextFileWordCounter\bin\Debug\TextFileWordCounter.exe.config
+C:\Users\Joe\Desktop\word-counter-gui\TextFileWordCounter\bin\Debug\TextFileWordCounter.exe
+C:\Users\Joe\Desktop\word-counter-gui\TextFileWordCounter\bin\Debug\TextFileWordCounter.pdb
+C:\Users\Joe\Desktop\word-counter-gui\TextFileWordCounter\obj\Debug\TextFileWordCounter.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\word-counter-gui\TextFileWordCounter\obj\Debug\TextFileWordCounter.MainWindow.resources
+C:\Users\Joe\Desktop\word-counter-gui\TextFileWordCounter\obj\Debug\TextFileWordCounter.Properties.Resources.resources
+C:\Users\Joe\Desktop\word-counter-gui\TextFileWordCounter\obj\Debug\TextFileWordCounter.ShowDataWindow.resources
+C:\Users\Joe\Desktop\word-counter-gui\TextFileWordCounter\obj\Debug\TextFileWordCounter.csproj.GenerateResource.cache
+C:\Users\Joe\Desktop\word-counter-gui\TextFileWordCounter\obj\Debug\TextFileWordCounter.exe
+C:\Users\Joe\Desktop\word-counter-gui\TextFileWordCounter\obj\Debug\TextFileWordCounter.pdb
