@@ -8,3 +8,14 @@ C:\Users\Joe\Desktop\word-counter-gui\TextFileWordCounter\obj\Debug\TextFileWord
 C:\Users\Joe\Desktop\word-counter-gui\TextFileWordCounter\obj\Debug\TextFileWordCounter.csproj.GenerateResource.cache
 C:\Users\Joe\Desktop\word-counter-gui\TextFileWordCounter\obj\Debug\TextFileWordCounter.exe
 C:\Users\Joe\Desktop\word-counter-gui\TextFileWordCounter\obj\Debug\TextFileWordCounter.pdb
+C:\Users\Joe\RiderProjects\word-counter-gui2\TextFileWordCounter\bin\Debug\TextFileWordCounter.exe.config
+C:\Users\Joe\RiderProjects\word-counter-gui2\TextFileWordCounter\bin\Debug\TextFileWordCounter.exe
+C:\Users\Joe\RiderProjects\word-counter-gui2\TextFileWordCounter\bin\Debug\TextFileWordCounter.pdb
+C:\Users\Joe\RiderProjects\word-counter-gui2\TextFileWordCounter\obj\Debug\TextFileWordCounter.csprojAssemblyReference.cache
+C:\Users\Joe\RiderProjects\word-counter-gui2\TextFileWordCounter\obj\Debug\TextFileWordCounter.MainWindow.resources
+C:\Users\Joe\RiderProjects\word-counter-gui2\TextFileWordCounter\obj\Debug\TextFileWordCounter.Properties.Resources.resources
+C:\Users\Joe\RiderProjects\word-counter-gui2\TextFileWordCounter\obj\Debug\TextFileWordCounter.ShowDataWindow.resources
+C:\Users\Joe\RiderProjects\word-counter-gui2\TextFileWordCounter\obj\Debug\TextFileWordCounter.csproj.GenerateResource.cache
+C:\Users\Joe\RiderProjects\word-counter-gui2\TextFileWordCounter\obj\Debug\TextFileWordCounter.csproj.CoreCompileInputs.cache
+C:\Users\Joe\RiderProjects\word-counter-gui2\TextFileWordCounter\obj\Debug\TextFileWordCounter.exe
+C:\Users\Joe\RiderProjects\word-counter-gui2\TextFileWordCounter\obj\Debug\TextFileWordCounter.pdb
