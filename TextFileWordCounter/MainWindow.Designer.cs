@@ -92,7 +92,7 @@
             this.btnAbort.FlatAppearance.BorderSize = 0;
             this.btnAbort.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int) (((byte) (153)))), ((int) (((byte) (0)))), ((int) (((byte) (0)))));
             this.btnAbort.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAbort.Font = new System.Drawing.Font("HelveticaNeueLT Com 55 Roman", 12.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.btnAbort.Font = new System.Drawing.Font("HelveticaNeueLT Com 55 Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.btnAbort.ForeColor = System.Drawing.Color.White;
             this.btnAbort.Location = new System.Drawing.Point(223, 270);
             this.btnAbort.Name = "btnAbort";
@@ -106,6 +106,7 @@
             // progressBar1
             // 
             this.progressBar1.BackColor = System.Drawing.SystemColors.Control;
+            this.progressBar1.ForeColor = System.Drawing.Color.Red;
             this.progressBar1.Location = new System.Drawing.Point(153, 217);
             this.progressBar1.MarqueeAnimationSpeed = 35;
             this.progressBar1.Name = "progressBar1";
@@ -125,7 +126,7 @@
             this.labelFile.Name = "labelFile";
             this.labelFile.Size = new System.Drawing.Size(184, 16);
             this.labelFile.TabIndex = 12;
-            this.labelFile.Text = "txt.tx";
+            this.labelFile.Text = "txt.txt";
             this.labelFile.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.labelFile.Visible = false;
             // 
@@ -136,13 +137,13 @@
             this.btnNewFile.FlatAppearance.BorderSize = 0;
             this.btnNewFile.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int) (((byte) (153)))), ((int) (((byte) (0)))), ((int) (((byte) (0)))));
             this.btnNewFile.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnNewFile.Font = new System.Drawing.Font("HelveticaNeueLT Com 55 Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.btnNewFile.Font = new System.Drawing.Font("HelveticaNeueLT Com 55 Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.btnNewFile.ForeColor = System.Drawing.Color.White;
             this.btnNewFile.Location = new System.Drawing.Point(223, 238);
             this.btnNewFile.Name = "btnNewFile";
             this.btnNewFile.Size = new System.Drawing.Size(116, 36);
             this.btnNewFile.TabIndex = 9;
-            this.btnNewFile.Text = "neue Datei";
+            this.btnNewFile.Text = "Andere Datei";
             this.btnNewFile.UseVisualStyleBackColor = false;
             this.btnNewFile.Visible = false;
             this.btnNewFile.Click += new System.EventHandler(this.btnNewFile_Click);
